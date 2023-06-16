@@ -41,7 +41,7 @@
 - [글또 백엔드 + 인프라 빌리지 반상회 발표자 속마음 후기](https://sang5c.tistory.com/82)
 - [글또 8기 백엔드](https://jellyfishdeveloper.tistory.com/entry/%EA%B8%80%EB%98%90-8%EA%B8%B0-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%B0%98%EC%83%81%ED%9A%8C-%ED%9B%84%EA%B8%B0)
 - [글또 백엔드/인프라 반상회 후기](https://anott.tistory.com/93)
-
+- [[글또 8기] 백엔드/인프라 빌리지 반상회: Backspace 후기](http://justsora.tistory.com/151)
 
 <br />
 <br />

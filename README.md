@@ -55,6 +55,8 @@
 - 신청 인원 : 약 80명
 - 행사 운영 : 자체 개발한 터미널 느낌의 홈페이지(채팅 가능)
 
+<img src="https://capture.dropbox.com/l4OezLPBiDkfPUyP?raw=1">
+
 <br />
 
 ## 발표자 및 발표 자료

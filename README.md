@@ -55,7 +55,7 @@
 - 신청 인원 : 약 80명
 - 행사 운영 : 자체 개발한 터미널 느낌의 홈페이지(채팅 가능)
 
-<img src="https://capture.dropbox.com/l4OezLPBiDkfPUyP?raw=1">
+<img width="1354" alt="스크린샷 2023-07-17 오후 2 54 54" src="https://github.com/geultto/Village-Neighborhood-Meeting/assets/18207755/6920f4c4-acb1-43d9-a2f6-0cce521fd4a5">
 
 <br />
 

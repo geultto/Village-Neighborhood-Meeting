@@ -47,5 +47,28 @@
 <br />
 
 # 데이터(데이터 분석 + 데이터 엔지니어링 + 머신러닝 엔지니어링 + AI 연구) 빌리지 반상회
-- 진행 일자 : 23년 6월 22일 예정
-- 핵심 Concept : TBU
+- 진행 일자 : 23년 6월 22일
+- 핵심 Concept : DAXI (Data•Ai taXI)
+  - 각자의 환경에서 돌아다니다가 기사 식당에서 모이는 모습과 비슷하게 모여서 같이 이야기를 나누는 모임
+- 장소 : 우아한형제들 테크살롱
+- 반상회 구성 : 발표 3건 + 두런두런 담소
+- 신청 인원 : 약 80명
+- 행사 운영 : 자체 개발한 터미널 느낌의 홈페이지(채팅 가능)
+
+<br />
+
+## 발표자 및 발표 자료
+- [사내 첫 데이터사이언티스트의 삽질기](https://github.com/EmjayAhn/gueltto_presentation)(안민재님)
+- [데이터로 뜯어보는 커뮤니티](https://github.com/ddongmiin/geultto_genie_bot)(조동민님)
+- [{       } 의 장벽을 넘어서 : 기계번역 연구개발 후기](https://github.com/Judy-Choi/NMT_Series/tree/main/Presentation)(최민주님)
+
+<br />
+
+## 참여 후기
+- [글또 데이터 반상회](https://holateo.tistory.com/14)
+- [[글또] 2023 상반기 데이터 반상회 후기](https://velog.io/@xindex/%EA%B8%80%EB%98%90-2023-%EC%83%81%EB%B0%98%EA%B8%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B0%98%EC%83%81%ED%9A%8C-%ED%9B%84%EA%B8%B0)
+- [💻 글또 데이터빌리지 반상회 - 여러 데이터기사님들과의 만남 🚖](https://spaceofyujin.tistory.com/35)
+- [글또 8기 데이터 빌리지 반상회](https://sowhatmylifeismine.tistory.com/265)
+
+<br />
+<br />
